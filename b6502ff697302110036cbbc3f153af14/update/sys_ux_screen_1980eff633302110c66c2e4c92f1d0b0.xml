@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Notes App Config">c980eff697302110036cbbc3f153af3c</app_config>
+        <description/>
+        <event_mappings>[ ]</event_mappings>
+        <macroponent display_value="Activity">dd80eff6133021109053ba31afeb13b1</macroponent>
+        <macroponent_config>{
+  "table" : "@context.props.table",
+  "sysId" : "@context.props.sysId",
+  "label" : "",
+  "bare" : true,
+  "scrollable" : "none",
+  "headerLevel" : "1",
+  "interceptNotifications" : false,
+  "propagateNotifications" : false
+}</macroponent_config>
+        <name>Activity Default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Record Page(request)">9980eff69c302110db31f9fbbe9ea9bb</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <rollback_screen/>
+        <screen_condition/>
+        <screen_type display_value="Activity">1180eff60330211085da9e6b71c215bc</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-08 00:16:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1980eff633302110c66c2e4c92f1d0b0</sys_id>
+        <sys_name>Activity Default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>sys_ux_screen_1980eff633302110c66c2e4c92f1d0b0</sys_update_name>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=1980eff633302110c66c2e4c92f1d0b0"/>
+</record_update>

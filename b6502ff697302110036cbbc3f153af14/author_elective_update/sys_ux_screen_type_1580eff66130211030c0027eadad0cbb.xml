@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Landing Page</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-08 00:16:45</sys_created_on>
+        <sys_id>1580eff66130211030c0027eadad0cbb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing Page</sys_name>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>sys_ux_screen_type_1580eff66130211030c0027eadad0cbb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-08 00:16:45</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notes App">b6502ff697302110036cbbc3f153af14</application>
+        <file_path/>
+        <instance_id>b880d41fdb7d685007072f17d496195d</instance_id>
+        <instance_name>dev105866</instance_name>
+        <name>sys_ux_screen_type_1580eff66130211030c0027eadad0cbb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Landing Page</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-02-08 00:16:45</sys_created_on><sys_id>1580eff66130211030c0027eadad0cbb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Landing Page</sys_name><sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package><sys_policy/><sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope><sys_update_name>sys_ux_screen_type_1580eff66130211030c0027eadad0cbb</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-02-08 00:16:45</sys_updated_on></sys_ux_screen_type></record_update>]]></payload>
+        <payload_hash>1737510788</payload_hash>
+        <record_name>Landing Page</record_name>
+        <reverted_from/>
+        <source>89ff96c097202110036cbbc3f153af90</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-01-17 20:15:37</sys_created_on>
+        <sys_id>4525d8db97342110036cbbc3f153aff7</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>185c15f76280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Screen Collection</type>
+        <update_guid>0525d8dbbe342110dfd0828113f296f7</update_guid>
+        <update_guid_history>0525d8dbbe342110dfd0828113f296f7:1737510788</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 22:45:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>4292fba45a6d4442b93d831e3634b399</sys_id>
+        <sys_metadata>1580eff66130211030c0027eadad0cbb</sys_metadata>
+        <sys_name>Landing Page</sys_name>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_scope_delete display_value="">3218919e954a4998b5f205706c1c0110</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_1580eff66130211030c0027eadad0cbb</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_1580eff66130211030c0027eadad0cbb">4525d8db97342110036cbbc3f153aff7</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

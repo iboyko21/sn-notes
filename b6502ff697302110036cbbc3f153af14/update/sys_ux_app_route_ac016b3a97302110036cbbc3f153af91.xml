@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Notes App Config">c980eff697302110036cbbc3f153af3c</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>Notes</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>notes</route_type>
+        <screen_type display_value="Notes">d801e33a97302110036cbbc3f153afd2</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 00:18:50</sys_created_on>
+        <sys_id>ac016b3a97302110036cbbc3f153af91</sys_id>
+        <sys_name>Notes</sys_name>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>sys_ux_app_route_ac016b3a97302110036cbbc3f153af91</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=ac016b3a97302110036cbbc3f153af91"/>
+</record_update>
