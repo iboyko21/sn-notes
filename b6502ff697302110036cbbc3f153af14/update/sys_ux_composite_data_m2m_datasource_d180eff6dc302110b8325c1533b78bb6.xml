@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - Popular Articles">1580eff65130211011c70d7a6b22cab7</dataset>
+        <datasource display_value="Custom Portal Landing - Popular articles Datasource">9d80eff6ba3021109bf22d8f76b0a8b6</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-08 00:16:46</sys_created_on>
+        <sys_id>d180eff6dc302110b8325c1533b78bb6</sys_id>
+        <sys_name/>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_d180eff6dc302110b8325c1533b78bb6</sys_update_name>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

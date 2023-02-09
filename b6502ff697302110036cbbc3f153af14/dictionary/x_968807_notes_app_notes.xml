@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="40665f4397702110036cbbc3f153afe1" label="Notes" max_length="40" name="x_968807_notes_app_notes" type="collection">
+        <element label="Description" max_length="150" name="description" type="string"/>
+        <element display="true" label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>

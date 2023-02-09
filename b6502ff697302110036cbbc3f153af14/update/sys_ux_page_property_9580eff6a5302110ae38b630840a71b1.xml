@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Notes App">d180eff66e30211013995fef81f220af</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">1980eff6003021106b3bca9513357fba</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-08 00:16:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9580eff6a5302110ae38b630840a71b1</sys_id>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>sys_ux_page_property_9580eff6a5302110ae38b630840a71b1</sys_update_name>
+        <type>json</type>
+        <unique_name>x_968807_notes_app.d180eff66e30211013995fef81f220af.route.chrome_header.1980eff6003021106b3bca9513357fba</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=9580eff6a5302110ae38b630840a71b1"/>
+</record_update>

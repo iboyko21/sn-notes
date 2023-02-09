@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">d980eff6f3302110bb2ac6a68a28aec1</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-08 00:16:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d180eff6df30211015051c0b9dec1dc2</sys_id>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>m2m_app_config_theme_d180eff6df30211015051c0b9dec1dc2</sys_update_name>
+        <theme display_value="Light Theme">5d80eff67c3021109e578bf5ba2330c1</theme>
+        <ux_app_configuration display_value="Notes App Config">c980eff697302110036cbbc3f153af3c</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

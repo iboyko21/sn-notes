@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="DELETE">
+        <app_config display_value="Notes App Config">c980eff697302110036cbbc3f153af3c</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Landing Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>landing</route_type>
+        <screen_type display_value="Landing Page">1580eff66130211030c0027eadad0cbb</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-08 00:16:44</sys_created_on>
+        <sys_id>5980eff66e30211006d5eab4fe1078ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing Page</sys_name>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_update_name>sys_ux_app_route_5980eff66e30211006d5eab4fe1078ba</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-08 00:16:44</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Notes App">b6502ff697302110036cbbc3f153af14</application>
+        <file_path/>
+        <instance_id>b880d41fdb7d685007072f17d496195d</instance_id>
+        <instance_name>dev105866</instance_name>
+        <name>sys_ux_app_route_5980eff66e30211006d5eab4fe1078ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route"><sys_ux_app_route action="INSERT_OR_UPDATE"><app_config display_value="Notes App Config">c980eff697302110036cbbc3f153af3c</app_config><description/><extension_point/><fields/><icon/><name>Landing Page</name><optional_parameters/><order>0</order><parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent><parent_macroponent_composition_element_id/><route_type>landing</route_type><screen_type display_value="Landing Page">1580eff66130211030c0027eadad0cbb</screen_type><sys_class_name>sys_ux_app_route</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-02-08 00:16:44</sys_created_on><sys_id>5980eff66e30211006d5eab4fe1078ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Landing Page</sys_name><sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package><sys_policy/><sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope><sys_update_name>sys_ux_app_route_5980eff66e30211006d5eab4fe1078ba</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-02-08 00:16:44</sys_updated_on></sys_ux_app_route></record_update>]]></payload>
+        <payload_hash>1853379905</payload_hash>
+        <record_name>Landing Page</record_name>
+        <reverted_from/>
+        <source>89ff96c097202110036cbbc3f153af90</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-01-17 20:15:37</sys_created_on>
+        <sys_id>0d2518db97342110036cbbc3f153af60</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>185c15f76280000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Route</type>
+        <update_guid>c92518dba83421100ffa5072841c6860</update_guid>
+        <update_guid_history>c92518dba83421100ffa5072841c6860:1853379905</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-08 22:45:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_route">sys_ux_app_route</sys_db_object>
+        <sys_id>4963dbb3f78c4bd1908e50fdbccd22d9</sys_id>
+        <sys_metadata>5980eff66e30211006d5eab4fe1078ba</sys_metadata>
+        <sys_name>Landing Page</sys_name>
+        <sys_package display_value="Notes App" source="x_968807_notes_app">b6502ff697302110036cbbc3f153af14</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Notes App">b6502ff697302110036cbbc3f153af14</sys_scope>
+        <sys_scope_delete display_value="">3218919e954a4998b5f205706c1c0110</sys_scope_delete>
+        <sys_update_name>sys_ux_app_route_5980eff66e30211006d5eab4fe1078ba</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_route_5980eff66e30211006d5eab4fe1078ba">0d2518db97342110036cbbc3f153af60</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
