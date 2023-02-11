@@ -20,7 +20,7 @@
         <sys_update_name>sys_ux_page_property_1d80eff624302110165beded6a74eab1</sys_update_name>
         <type>json</type>
         <unique_name>x_968807_notes_app.d180eff66e30211013995fef81f220af.root.chrome_menu_actions</unique_name>
-        <value>{}</value>
+        <value>{ }</value>
     </sys_ux_page_property>
     <sys_translated_text action="delete_multiple" query="documentkey=1d80eff624302110165beded6a74eab1"/>
 </record_update>
